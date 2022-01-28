@@ -6,7 +6,7 @@ Analysis of August 2019 data from NYC's shared bike network Citibike, which incl
 - Software: Tableau Public 2021.4.3, Jupyter Notebook 6.3.0
 
 ### Tableau Link
-Tableau Public includes several tabs to [toggle between worksheets](https://public.tableau.com/app/profile/tina.bellon/viz/Citibike_Aug_2019_Summary/TripsbyDuration)
+Tableau Public worksheets including tabs to toggle can be found [here](https://public.tableau.com/app/profile/tina.bellon/viz/Citibike_Aug_2019_Summary/TripsbyDuration)
 
 ### Overview of Analysis
 Analysis of Citibike data to determine viability of the Citibike business model. Citibike data includes invividual trips for the month, including the gender of the user, the start and end location of the trip by coordinates, the start and end time and trip duration, as well as information on whether the customer is a subscriber to the network.
